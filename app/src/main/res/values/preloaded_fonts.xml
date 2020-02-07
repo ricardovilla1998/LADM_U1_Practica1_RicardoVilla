@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/camic</item>
+        <item>@font/coming_soon</item>
+        <item>@font/delius_unicase</item>
+        <item>@font/passion_one_black</item>
+    </array>
+</resources>
