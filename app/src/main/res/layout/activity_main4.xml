@@ -342,6 +342,17 @@
                 android:padding="2dp"
                 android:paddingRight="5dp"
                 app:srcCompat="@drawable/language" />
+
+            <ImageView
+                android:id="@+id/imageView21"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:padding="2dp"
+                android:paddingRight="5dp"
+                app:srcCompat="@drawable/shipped" />
         </LinearLayout>
 
     </LinearLayout>
